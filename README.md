@@ -5,3 +5,5 @@
 
  and It is fully responsive.
 
+<!-- A Client Side Project -->
+<!-- No Backend as I have created it for my personal use -->
